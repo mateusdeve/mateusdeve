@@ -3,10 +3,15 @@
 .📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 .🌱 Principais Habilidades: 
+
   Java | Spring 
+  
   HTML | CSS | JS
+  
   MySQL | MongoDB
+  
   Angular | TypeScript
+  
 
 Sou desenvolvedor full stack com 2 ano de experiência.
 
