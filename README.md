@@ -4,7 +4,7 @@
 
 .🌱 Principais Habilidades: 
 
-    Java | Spring 
+    Java | Spring Boot
   
     HTML | CSS | JS
   
