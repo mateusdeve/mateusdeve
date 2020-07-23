@@ -10,8 +10,6 @@
   
     MySQL | MongoDB
   
-    Angular | TypeScript
-  
 
 Sou desenvolvedor full stack com 2 anos de experiência.
 
