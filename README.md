@@ -9,6 +9,8 @@
     HTML | CSS | JS
   
     MySQL | MongoDB
+    
+    Angular 9 | React
   
 
 Sou desenvolvedor full stack com 2 anos de experiência.
