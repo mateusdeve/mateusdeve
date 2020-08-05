@@ -4,13 +4,15 @@
 
 .🌱 Principais Habilidades: 
 
-    Java | Spring Boot
+    Node.js | React.js
   
     HTML | CSS | JS
-  
-    MySQL | MongoDB
     
-    Angular 2+ | TypeScript
+    Adobe XD
+  
+    MySQL | MongoDB | PostegreSLQ
+    
+    TypeScript
   
 
 Sou desenvolvedor full stack com 2 anos de experiência.
