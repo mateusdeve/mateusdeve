@@ -14,3 +14,5 @@
     
     TypeScript
   
+
+### Entusiasta das melhores tecnologias de desenvolvimento web.
