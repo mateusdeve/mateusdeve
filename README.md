@@ -1,5 +1,4 @@
 ### Olá 👋
-    </p>
 .📚 Graduado em Análise e Desenvolvimento de Sistemas
 
 .🌱 Principais Habilidades: 
