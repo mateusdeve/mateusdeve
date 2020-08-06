@@ -14,5 +14,9 @@
     
     TypeScript
   
+Mobile frist
+<html>
+
+</html>
 
 ### Entusiasta das melhores tecnologias de desenvolvimento web.
