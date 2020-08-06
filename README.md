@@ -18,4 +18,3 @@
     <g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">📸</g-emoji> <a href="https://instagram.com/mateuzzp" rel="nofollow">Instagram</a> <br>
     <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> <a href="https://www.linkedin.com/in/mateus-silveira-b91155172/" rel="nofollow">LinkedIn</a> <br></p>
 
-### Entusiasta das melhores tecnologias de desenvolvimento web.
