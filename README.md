@@ -1,5 +1,7 @@
 ### Olá 👋
-.📚 Graduado em Análise e Desenvolvimento de Sistemas
+.🎓 Graduando em Análise e Desenvolvimento de Sistemas
+.📚 Estudando React Native ❤️
+
 
 .🌱 Principais Habilidades: 
 
