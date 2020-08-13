@@ -14,7 +14,7 @@
   
     MySQL | MongoDB | PostegreSLQ
     
-    TypeScript
+    
 
 <p>
     <g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji> <a href="https://twitter.com/Silveirapires1" rel="nofollow">Twitter</a> <br>
