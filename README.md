@@ -3,7 +3,7 @@
 
 .📚 Estudando React Native ❤️
 
-. https://mateuspires.netlify.app/
+. 👨‍💻 https://mateuspires.netlify.app/
 
 
 .🌱 Principais Habilidades: 
