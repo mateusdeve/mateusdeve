@@ -1,5 +1,5 @@
 ### Olá 👋
-.🎓 Cursando Análise e Desenvolvimento de Sistemas
+.🎓 Graduado em  Análise e Desenvolvimento de Sistemas
 
 .📚 Estudando React Native ❤️
 
