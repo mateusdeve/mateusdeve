@@ -14,7 +14,7 @@
     
     Adobe XD
   
-    MySQL | MongoDB | PostegreSLQ
+    MySQL
     
     
 
