@@ -1,14 +1,14 @@
 
 .🎓 Graduado em  Análise e Desenvolvimento de Sistemas
 
-.📚 Estudando React Native ❤️
+.📚 Estudando TypeScript.
 
 . 👨‍💻 https://mateuspires.netlify.app/
 
 
 .🌱 Principais Habilidades: 
 
-    Node.js | React.js
+    Node.js | React.js | React Native
   
     HTML | CSS | JS
     
