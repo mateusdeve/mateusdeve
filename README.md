@@ -1,8 +1,6 @@
 
 .🎓 Graduado em  Análise e Desenvolvimento de Sistemas
 
-.📚 Estudando TypeScript.
-
 . 👨‍💻 https://mateuspires.netlify.app/
 
 
@@ -10,7 +8,7 @@
 
     Node.js | React.js | React Native
   
-    HTML | CSS | JS
+    HTML | CSS | JS | TS
     
     Adobe XD
   
