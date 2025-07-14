@@ -16,11 +16,6 @@
   <img src="https://raw.githubusercontent.com/mateusdeve/mateusdeve/master/assets/github-user-contribution.svg" alt="Cobra comendo dados" />
 </div>
 <br>
-
-<div align="center">
-  <p>Contador de visitas</p>
-  <img src="https://profile-counter.glitch.me/mateusdeve/count.svg" />
-</div>
 <br/>
 
 <div align="center"> 
