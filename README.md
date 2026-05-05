@@ -13,7 +13,7 @@
 
 ---
 
-Desenvolvedor Full Stack desde 2018, com foco em produtos digitais escaláveis. Atualmente na [**Clipy**](https://clipy.ia.br), criando soluções com IA aplicada.
+Desenvolvedor Full Stack desde 2018, com foco em produtos digitais escaláveis. Atualmente na [**RTG**](https://readytogo.com.br/), criando soluções com IA aplicada.
 
 ```typescript
 const mateus = {
