@@ -1,86 +1,119 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Mateus%20Pires&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Bras%C3%ADlia&descSize=15&descAlignY=78&descColor=888888" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
-# Mateus Pires
-
-**Full Stack Developer** · Brasília, Brasil
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateussilveirapires)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mateuzzp/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus.dev.ti@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://blog.clipy.ia.br)
+```
+  Engenharia que entende negócio.  Código que entende design.
+```
 
 </div>
 
 ---
 
-Desenvolvedor Full Stack desde 2018, com foco em produtos digitais escaláveis. Atualmente na [**RTG**](https://readytogo.com.br/), criando soluções com IA aplicada.
+## `$ whoami`
+
+Dev full stack desde **2018**, baseado em **Brasília**. Trabalhei como dev principal em projetos institucionais do futebol brasileiro (STJD e ANRESF, com apoio da CBF) e hoje construo produtos com IA aplicada na [**Clipy**](https://clipy.ia.br).
+
+Menos "qual framework usar". Mais "qual problema resolver".
 
 ```typescript
 const mateus = {
-  languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-  frontend:  ["React.js", "Next.js", "Vue.js", "Astro", "Tailwind CSS"],
-  backend:   ["Node.js", "Nest.js", "FastAPI"],
+  role:      "Full Stack · AI Engineer",
+  location:  "Brasília, DF — UTC-3",
+  company:   "Clipy · RTG",
+  stack:     ["Next.js", "Node.js", "NestJS", "FastAPI", "Python"],
+  ai:        ["LangChain", "LangGraph", "n8n", "OpenAI", "AI Agents"],
   database:  ["PostgreSQL", "MySQL", "Redis"],
-  ai:        ["LangChain", "LangGraph", "n8n", "AI Agents"],
-  tools:     ["Docker", "GraphQL", "VTEX IO", "Figma", "Git"],
-  now:       "Building AI-powered products @ Clipy",
+  tools:     ["Docker", "GraphQL", "VTEX IO", "Figma"],
+  now:       "Building AI-powered products @ Clipy 🤖",
 };
 ```
 
 ---
 
-<div align="center">
+## `$ ls ./projetos`
 
-**Linguagens**
+| Ano | Projeto | Papel | Stack |
+|-----|---------|-------|-------|
+| 2024 | **[STJD](https://stjd.org.br)** — Portal do Superior Tribunal de Justiça Desportiva | Lead Full Stack | Next.js · Node · MySQL |
+| 2024 | **[ANRESF](https://anresf.org.br)** — Agência Reguladora do Fair Play Financeiro (CBF) | Full Stack | Next.js · Payload CMS · PostgreSQL |
+| 2025 | **Agente IA S10x** — Atendimento autônomo no WhatsApp em produção | AI Engineer | n8n · LangChain · LangGraph |
+| 2024 | **[Comprar Bem](https://comprarbem.store)** — E-commerce completo no Shopify | Full Stack | Shopify · Liquid · TypeScript |
+| 2021 | **Track'nMe** — Painel de rastreamento veicular em tempo real | Frontend Lead | React · Redux · TypeScript |
+| 2020 | **Lojas VTEX IO** — Implantação de múltiplos e-commerces headless | Frontend | VTEX IO · TypeScript · GraphQL |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+---
+
+## `$ cat stack.json`
 
 **Front-end**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0f0f0f?style=flat-square&logo=astro)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Back-end**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4)
 
-**Banco de Dados**
+**Dados & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E10098)
 
-**Ferramentas & Outros**
+**IA & Automação**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![VTEX](https://img.shields.io/badge/VTEX%20IO-F71963?style=flat-square&logo=vtex&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
+![n8n](https://img.shields.io/badge/n8n-1a1a1a?style=flat-square&logo=n8n&logoColor=EA4B71)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai)
+![VTEX IO](https://img.shields.io/badge/VTEX%20IO-1a1a1a?style=flat-square&logo=vtex&logoColor=F71963)
 
+---
+
+## `$ git log --stats`
+
+<div align="center">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusdeve&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="96%"/>
 </div>
 
 ---
 
+## `$ curl contact.json`
+
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=blue-green&hide_border=true"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mateus.clipy.ia.br-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://mateus.clipy.ia.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateussilveirapires-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/mateussilveirapires)
+[![Email](https://img.shields.io/badge/Email-mateus.dev.ti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mateus.dev.ti@gmail.com)
+
+</div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mateusdeve/mateusdeve/master/assets/github-user-contribution.svg" alt="contribution graph" />
-
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 </div>
