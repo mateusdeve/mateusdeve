@@ -1,11 +1,22 @@
-<!-- HEADER -->
+<!-- WAVE TOP (sem texto, mais estável) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Mateus%20Pires&fontSize=50&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20AI%20Builder&descSize=16&descAlignY=62&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=8%2B+anos+construindo+produtos+digitais;IA+Generativa+%7C+Agentes+Aut%C3%B4nomos+%7C+Automa%C3%A7%C3%B5es;Full+Stack+%7C+Next.js+%C2%B7+Node+%C2%B7+FastAPI)](https://git.io/typing-svg)
+<h1>Mateus Pires</h1>
+
+<p><strong>Full Stack Developer & AI Builder</strong> · Brasília, Brasil</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=8%2B+anos+construindo+produtos+digitais;Full+Stack+%7C+Next.js+%C2%B7+Node+%C2%B7+FastAPI;IA+Generativa+%7C+Agentes+Aut%C3%B4nomos+%7C+n8n;Building+AI-powered+products+%40+Clipy)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateussilveirapires)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus.dev.ti@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mateus.clipy.ia.br)
+[![Blog](https://img.shields.io/badge/Blog-1a1a2e?style=flat-square&logo=hashnode&logoColor=2962FF)](https://blog.clipy.ia.br)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mateusdeve&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
 
@@ -58,49 +69,27 @@ const mateus = {
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=009688)
 
-**Front-end**
+**Front-end · Back-end · Infra**
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Astro](https://img.shields.io/badge/Astro-0f0f0f?style=flat-square&logo=astro)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify)
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E10098)
-
-**Dados & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro,tailwind,nodejs,nest,fastapi,python,php,postgres,mysql,redis,docker,graphql,figma,git&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 
 ## `$ git log --stats`
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
-</div>
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdeve&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdeve&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusdeve&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusdeve&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="96%"/>
+
 </div>
 
 ---
