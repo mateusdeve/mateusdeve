@@ -1,15 +1,13 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Mateus%20Pires&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Bras%C3%ADlia&descSize=15&descAlignY=78&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Mateus%20Pires&fontSize=50&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20AI%20Builder&descSize=16&descAlignY=62&descColor=888888" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
-```
-  Engenharia que entende negócio.  Código que entende design.
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=8%2B+anos+construindo+produtos+digitais;IA+Generativa+%7C+Agentes+Aut%C3%B4nomos+%7C+Automa%C3%A7%C3%B5es;Full+Stack+%7C+Next.js+%C2%B7+Node+%C2%B7+FastAPI)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=mateusdeve&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
 
 </div>
 
@@ -40,9 +38,9 @@ const mateus = {
 
 | Ano | Projeto | Papel | Stack |
 |-----|---------|-------|-------|
+| 2025 | **Agente IA S10x** — Atendimento autônomo no WhatsApp em produção | AI Engineer | n8n · LangChain · LangGraph |
 | 2024 | **[STJD](https://stjd.org.br)** — Portal do Superior Tribunal de Justiça Desportiva | Lead Full Stack | Next.js · Node · MySQL |
 | 2024 | **[ANRESF](https://anresf.org.br)** — Agência Reguladora do Fair Play Financeiro (CBF) | Full Stack | Next.js · Payload CMS · PostgreSQL |
-| 2025 | **Agente IA S10x** — Atendimento autônomo no WhatsApp em produção | AI Engineer | n8n · LangChain · LangGraph |
 | 2024 | **[Comprar Bem](https://comprarbem.store)** — E-commerce completo no Shopify | Full Stack | Shopify · Liquid · TypeScript |
 | 2021 | **Track'nMe** — Painel de rastreamento veicular em tempo real | Frontend Lead | React · Redux · TypeScript |
 | 2020 | **Lojas VTEX IO** — Implantação de múltiplos e-commerces headless | Frontend | VTEX IO · TypeScript · GraphQL |
@@ -50,6 +48,15 @@ const mateus = {
 ---
 
 ## `$ cat stack.json`
+
+**IA & Automação**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Front-end**
 
@@ -65,9 +72,8 @@ const mateus = {
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E10098)
 
 **Dados & Infra**
 
@@ -75,14 +81,6 @@ const mateus = {
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E10098)
-
-**IA & Automação**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
-![n8n](https://img.shields.io/badge/n8n-1a1a1a?style=flat-square&logo=n8n&logoColor=EA4B71)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai)
-![VTEX IO](https://img.shields.io/badge/VTEX%20IO-1a1a1a?style=flat-square&logo=vtex&logoColor=F71963)
 
 ---
 
@@ -91,6 +89,12 @@ const mateus = {
 <div align="center">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdeve&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats"/>
 </div>
 
 <br/>
