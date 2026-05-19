@@ -79,12 +79,16 @@ const mateus = {
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusdeve&theme=github_dark" width="96%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdeve&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusdeve&theme=github_dark" height="155em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateusdeve&theme=github_dark" height="155em"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdeve&theme=github-dark-blue&hide_border=true" alt="streak stats"/>
 
 <br/>
 
