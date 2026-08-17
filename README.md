@@ -1,28 +1,48 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+</div>
+
 <div align="center">
 
-# Mateus Pires
+<h1>Mateus Pires</h1>
 
-**Desenvolvedor Full Stack** · Brasília, DF
+<p><strong>Desenvolvedor Full Stack</strong> · Brasília, DF 🇧🇷</p>
 
-Mais de 7 anos construindo aplicações web modernas e escaláveis, do front-end ao back-end.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=7%2B+anos+construindo+aplica%C3%A7%C3%B5es+web;Full+Stack+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Agentes+de+IA+%7C+n8n+%C2%B7+LangChain+%C2%B7+LangGraph;Dev+principal+em+projetos+STJD+e+ANRESF)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mateus.clipy.ia.br-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://mateus.clipy.ia.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateussilveirapires-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateussilveirapires)
-[![Email](https://img.shields.io/badge/Email-mateus.dev.ti%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus.dev.ti@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mateus.clipy.ia.br-000000?style=flat-square&logo=vercel&logoColor=white)](https://mateus.clipy.ia.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateussilveirapires)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus.dev.ti@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=mateusdeve&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Full Stack com mais de **7 anos de experiência**, atualmente na **Ready To Go**. Atuei como dev principal em projetos institucionais de alta visibilidade no ecossistema do futebol brasileiro — **STJD** e **ANRESF** (esta com apoio da CBF).
+Desenvolvedor Full Stack com mais de **7 anos de experiência** construindo aplicações web modernas e escaláveis, do front-end ao back-end. Fui dev principal em projetos institucionais de alta visibilidade no futebol brasileiro — **[STJD](https://stjd.org.br)** e **[ANRESF](https://anresf.org.br)** (esta com apoio da CBF) — e venho me especializando em **automações e agentes de IA**, incluindo um agente de WhatsApp em produção que atende clientes de forma autônoma.
 
-Tenho forte vivência em **React, Next.js e Node.js**, e venho me especializando em **automações e agentes de IA** com n8n, LangChain e LangGraph — incluindo um agente de WhatsApp em produção que atende clientes de forma autônoma.
+```typescript
+const mateus = {
+  role:      "Desenvolvedor Full Stack",
+  location:  "Brasília, DF — UTC-3",
+  company:   "Ready To Go",
+  stack:     ["React", "Next.js", "Node.js", "NestJS", "Fastify"],
+  ai:        ["n8n", "LangChain", "LangGraph", "AI Agents"],
+  database:  ["MySQL", "PostgreSQL", "Redis"],
+  cms:       ["Payload CMS", "VTEX IO"],
+  mindset:   "Código limpo e produtos que entregam valor 🚀",
+};
+```
 
-Entusiasta de código limpo, boas práticas e produtos que realmente entregam valor.
+---
 
-## Projetos em destaque
+## 🏆 Projetos em destaque
 
 | Projeto | Descrição | Papel | Stack |
 |---------|-----------|-------|-------|
@@ -30,9 +50,11 @@ Entusiasta de código limpo, boas práticas e produtos que realmente entregam va
 | **[ANRESF](https://anresf.org.br)** | Agência reguladora do Fair Play Financeiro do futebol brasileiro (apoio da CBF), com portal autenticado para os clubes | Full Stack (solo) | Next.js · Payload CMS |
 | **Agente IA — S10x** | Agente de IA em produção no WhatsApp que atende clientes de forma autônoma, liberando o time humano para tarefas de maior valor | AI Engineer | n8n · LangChain · LangGraph |
 
-Outros projetos pessoais e profissionais em [mateus.clipy.ia.br](https://mateus.clipy.ia.br).
+📁 Outros projetos pessoais e profissionais em **[mateus.clipy.ia.br](https://mateus.clipy.ia.br)**
 
-## Experiência
+---
+
+## 💼 Experiência
 
 | Período | Empresa | Cargo |
 |---------|---------|-------|
@@ -41,21 +63,20 @@ Outros projetos pessoais e profissionais em [mateus.clipy.ia.br](https://mateus.
 | 2020 — 2021 | **Track'nMe** | Desenvolvedor Front-end |
 | 2018 — 2020 | **Eng. Energia** | Desenvolvedor Full Stack |
 
-## Stack
+🎓 **Análise e Desenvolvimento de Sistemas** — Uniplan · 2018 – 2021
 
-**Linguagens** — JavaScript · TypeScript · PHP · Python
+---
 
-**Front-end** — React.js · Next.js · Vue.js · Astro · Tailwind CSS
+## 🛠️ Stack
 
-**Back-end** — Node.js · NestJS · Fastify
+**IA & Automação**
 
-**Banco de dados** — MySQL · PostgreSQL · Redis
+![n8n](https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
 
-**IA & Automação** — n8n · LangChain · LangGraph
-
-**CMS & E-commerce** — Payload CMS · VTEX IO
-
-**Ferramentas** — Git · Docker · GraphQL · Figma
+**Front-end · Back-end · Banco de dados · Ferramentas**
 
 <div align="center">
 
@@ -63,16 +84,22 @@ Outros projetos pessoais e profissionais em [mateus.clipy.ia.br](https://mateus.
 
 </div>
 
-## Formação
+---
 
-**Análise e Desenvolvimento de Sistemas** — Centro Universitário Planalto do Distrito Federal (Uniplan) · 2018 – 2021
-
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mateusdeve&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdeve&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusdeve&theme=github_dark" width="96%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusdeve&theme=github_dark" height="155em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateusdeve&theme=github_dark" height="155em"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusdeve&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="96%"/>
 
 </div>
 
@@ -80,6 +107,11 @@ Outros projetos pessoais e profissionais em [mateus.clipy.ia.br](https://mateus.
 
 <div align="center">
 
-📫 **Vamos conversar?** — [mateus.dev.ti@gmail.com](mailto:mateus.dev.ti@gmail.com) · [LinkedIn](https://linkedin.com/in/mateussilveirapires)
+📫 **Vamos conversar?** — [mateus.dev.ti@gmail.com](mailto:mateus.dev.ti@gmail.com) · [LinkedIn](https://linkedin.com/in/mateussilveirapires) · [mateus.clipy.ia.br](https://mateus.clipy.ia.br)
 
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 </div>
