@@ -56,12 +56,33 @@ const mateus = {
 
 ## 💼 Experiência
 
-| Período | Empresa | Cargo |
-|---------|---------|-------|
-| 2022 — atual | **Ready To Go** | Desenvolvedor Full Stack |
-| 2020 — 2022 | **CodeBy** | Desenvolvedor Front-end (VTEX IO) |
-| 2020 — 2021 | **Track'nMe** | Desenvolvedor Front-end |
-| 2018 — 2020 | **Eng. Energia** | Desenvolvedor Full Stack |
+### Ready To Go — Desenvolvedor Full Stack
+📅 *Jan 2022 — atual*
+
+- Desenvolvimento e manutenção de sistemas web com **React, Next.js, NestJS, Tailwind CSS, MySQL e Docker**
+- Criação de **agente de IA em produção no WhatsApp** (n8n + LangChain) que atende sozinho o produto S10x, respondendo clientes de forma autônoma
+- Construção de **automações com n8n** integrando ferramentas internas e externas, reduzindo tarefas manuais do time
+- Dev principal nos projetos **[STJD](https://stjd.org.br)** e **[ANRESF](https://anresf.org.br)**
+
+### CodeBy — Desenvolvedor Front-end
+📅 *Ago 2020 — Jan 2022*
+
+- Desenvolvimento de aplicativos e implantação de lojas na plataforma **VTEX IO**
+- Stack: TypeScript, React.js, Node.js, GraphQL
+
+### Track'nMe — Desenvolvedor Front-end
+📅 *Out 2020 — Mai 2021*
+
+- Criação e manutenção do **sistema de rastreamento veicular** da empresa
+- Stack: React, Redux, TypeScript
+
+### Eng. Energia — Desenvolvedor Full Stack
+📅 *Out 2018 — Mai 2020*
+
+- Desenvolvimento de sites, sistemas e blogs corporativos
+- Stack: PHP, Laravel, CodeIgniter, jQuery, Bootstrap
+
+<br/>
 
 🎓 **Análise e Desenvolvimento de Sistemas** — Uniplan · 2018 – 2021
 
@@ -69,20 +90,50 @@ const mateus = {
 
 ## 🛠️ Stack
 
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+**Banco de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=FF4438)
+
 **IA & Automação**
 
 ![n8n](https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=for-the-badge&logo=langgraph&logoColor=white)
 
-**Front-end · Back-end · Banco de dados · Ferramentas**
+**CMS & E-commerce**
 
-<div align="center">
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-1a1a1a?style=for-the-badge&logo=payloadcms&logoColor=white)
+![VTEX IO](https://img.shields.io/badge/VTEX_IO-1a1a1a?style=for-the-badge&logo=vtex&logoColor=ED125F)
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,php,python,react,nextjs,vue,astro,tailwind,nodejs,nest,mysql,postgres,redis,docker,graphql,git,figma&theme=dark&perline=9)](https://skillicons.dev)
+**Ferramentas**
 
-</div>
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
