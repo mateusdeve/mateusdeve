@@ -1,13 +1,9 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=190&section=header&text=Mateus%20Pires&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Bras%C3%ADlia,%20DF&descSize=16&descAlignY=76" width="100%"/>
 </div>
 
 <div align="center">
-
-<h1>Mateus Pires</h1>
-
-<p><strong>Desenvolvedor Full Stack</strong> · Brasília, DF 🇧🇷</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=7%2B+anos+construindo+aplica%C3%A7%C3%B5es+web;Full+Stack+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Agentes+de+IA+%7C+n8n+%C2%B7+LangChain+%C2%B7+LangGraph;Dev+principal+em+projetos+STJD+e+ANRESF)](https://git.io/typing-svg)
 
@@ -164,5 +160,5 @@ const mateus = {
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1e3a8a&height=80&section=footer" width="100%"/>
 </div>
